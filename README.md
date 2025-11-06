@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ## Live Demo
 
-**[View Live Portfolio](https://yourwebsite.com)**
+**[View Live Portfolio](https://yourwebsite.com)** (coming soon!)
 
 ## Screenshots
 
@@ -12,18 +12,26 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ### Hero Section
 
-![Hero Section](screenshots/hero_section.png)
+<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/9a959677-6631-469e-9060-66da13e0e07e" />
+
 *Landing page with particle.js animation and typing effect*
 
 ### About Me
 
-![About Section](screenshots/about_section.png)
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/4a7d3615-d450-475b-876d-8247f572c8de" />
+
 *Personal introduction and resume download*
 
 ### Skills Section
 
 ![Skills](screenshots/skills_section.png)
 *Technical skills showcase with icons*
+
+### Education Section
+
+<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/323563b8-716b-4559-a0bc-146d771ff459" />
+
+*Secondary and Post-Secondary education information
 
 ### Projects Portfolio
 
