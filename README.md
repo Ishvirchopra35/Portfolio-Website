@@ -24,7 +24,8 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ### Skills Section
 
-![Skills](screenshots/skills_section.png)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/98eaeac9-d9b3-4cfc-b61e-af9e122189c5" />
+
 *Technical skills showcase with icons*
 
 ### Education Section
@@ -33,20 +34,18 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 *Secondary and Post-Secondary education information
 
-### Projects Portfolio
+### Experience Section
 
-![Projects](screenshots/projects_section.png)
-*Featured projects with live demos and GitHub links*
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/5f3fb130-d717-46b4-b9ad-7a4110bb8125" />
+
+*Experience -- includes internships, research projects, eductation*
 
 ### Contact Form
 
-![Contact](screenshots/contact_section.png)
+<img width="1919" height="752" alt="image" src="https://github.com/user-attachments/assets/bfa1e79b-8198-4149-a323-90ae2d79717b" />
+
 *Functional contact form with EmailJS integration*
 
-### Mobile Responsive
-
-![Mobile View](screenshots/mobile_view.png)
-*Responsive design on mobile devices*
 
 </div>
 
