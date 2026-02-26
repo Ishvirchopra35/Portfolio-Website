@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ## Live Demo
 
-**[ishvirchopra35.tech](https://ishvirchopra35.tech)**
+**[ishvirchopra35.tech](https://ishvirschopra35.tech)**
 
 ---
 
