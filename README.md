@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my projects, skills, experience, and education as a Computer Science student at the University of Waterloo.
 
-## Live Demo
+## Live
 
 **[ishvirchopra35.tech](https://ishvirschopra35.tech)**
 
@@ -18,7 +18,7 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ### About Me
 
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/25043b1c-1d73-4dff-9737-efa58e077554" />
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/77ab1f7f-a6ee-4ad5-8c0a-0e9f29be4d76" />
 
 *Personal intro, GitHub activity graph, and stats*
 
