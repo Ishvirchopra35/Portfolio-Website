@@ -1,292 +1,155 @@
 # Personal Portfolio Website
 
-A modern, responsive portfolio website showcasing my projects, skills, experience, and education as a Computer Science student.
+A modern, responsive portfolio website showcasing my projects, skills, experience, and education as a Computer Science student at the University of Waterloo.
 
 ## Live Demo
 
-**[View Live Portfolio](https://ishvirchopra35.tech)**
+**[ishvirchopra35.tech](https://ishvirschopra35.tech)**
+
+---
 
 ## Screenshots
 
-<div align="center">
-
 ### Hero Section
 
-<img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/9a959677-6631-469e-9060-66da13e0e07e" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/05f27532-22bb-44dc-a3ef-b4a77f4527b7" />
 
-*Landing page with particle.js animation and typing effect*
+*Particle canvas background with typing animation*
 
 ### About Me
 
-<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/4a7d3615-d450-475b-876d-8247f572c8de" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/25043b1c-1d73-4dff-9737-efa58e077554" />
 
-*Personal introduction and resume download*
+*Personal intro, GitHub activity graph, and stats*
 
-### Skills Section
+### Projects
 
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/98eaeac9-d9b3-4cfc-b61e-af9e122189c5" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/90bc5f8b-2fc3-44e0-a052-34048ccb138b" />
 
-*Technical skills showcase with icons*
+*Project cards with tech tags, descriptions, and GitHub links*
 
-### Education Section
+### Experience
 
-<img width="1919" height="793" alt="image" src="https://github.com/user-attachments/assets/323563b8-716b-4559-a0bc-146d771ff459" />
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/0374a2af-b4e0-45f6-a016-4f1df0566893" />
 
-*Secondary and Post-Secondary education information
+*Timeline with internships and research*
 
-### Experience Section
+### Skills
 
-<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/5f3fb130-d717-46b4-b9ad-7a4110bb8125" />
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/a290c798-d79c-4cf8-b75f-30c9528fe6ae" />
 
-*Experience -- includes internships, research projects, eductation*
+*Tech stack organized by category*
 
-### Contact Form
+### Education
 
-<img width="1919" height="752" alt="image" src="https://github.com/user-attachments/assets/bfa1e79b-8198-4149-a323-90ae2d79717b" />
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/aa722cc9-3d67-4ba6-a248-57bb1fb72496" />
 
-*Functional contact form with EmailJS integration*
+*University of Waterloo with coursework*
 
+### Contact
 
-</div>
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/37136621-90cd-43f8-a956-e1dd69a2b3b9" />
+
+*Social links and email*
 
 ---
 
 ## Features
 
-- **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
-- **Interactive Animations**: 
-  - Particle.js animated background
-  - Typed.js dynamic text effects
-  - Vanilla Tilt 3D hover effects
-  - ScrollReveal smooth section animations
-- **Sections**:
-  - Home with animated introduction
-  - About Me with personal background
-  - Skills showcase with visual icons
-  - Education timeline
-  - Projects portfolio with GitHub links
-  - Experience timeline
-  - Contact form with EmailJS integration
-- **Social Media Integration**: Quick links to LinkedIn, GitHub, Twitter, YouTube, and Instagram
-- **Smooth Navigation**: Sticky navbar with smooth scrolling
-- **Contact Form**: Functional contact form using EmailJS
+- **Dark/Light Mode**: Toggles between dark and light theme, preference saved to localStorage
+- **Particle Canvas Background**: Animated floating dots with connecting lines built in vanilla JS
+- **Typing Animation**: "I am into..." cycles through interests with realistic backspace effect
+- **Scroll Animations**: Fade-in on scroll using IntersectionObserver
+- **Sticky Dot Navigation**: Fixed left sidebar showing which section you're currently in
+- **Scroll Progress Bar**: Thin purple gradient bar at the top that fills as you scroll
+- **Custom Scrollbar**: Purple styled scrollbar across all browsers
+- **GitHub Activity Graph**: Live contribution graph embedded via ghchart.rshah.org
+- **Responsive Design**: Fully mobile responsive with hamburger menu on small screens
+- **Project Cards**: Hover lift and glow effect with tech tags and GitHub links
+- **Experience Timeline**: Date-labeled vertical timeline with purple line and dots
+- **Resume Download**: Direct PDF download from the navbar
+
+## Sections
+
+- **Hero**: Name, typing animation, CTA buttons, social links
+- **About**: Bio, stats (GPA, internships, projects), GitHub activity
+- **Projects**: Wrap It Up, ASL Classifier, Digit Classifier, E-Commerce App, Bronze Layer Data Warehouse, Sales Dashboard
+- **Experience**: Compunnel Canada, Red Circle Inc, Arseam Foundation
+- **Skills**: Languages, Frameworks, Tools, Concepts
+- **Education**: University of Waterloo, BCS, 4.0 GPA
+- **Contact**: Email button and social links
 
 ## Technologies Used
 
-### Frontend
-- **HTML5**: Semantic markup and structure
-- **CSS3**: Custom styling with animations and transitions
-- **JavaScript**: Interactive functionality and dynamic content
-
-### Libraries & Frameworks
-- **[Particle.js](https://vincentgarreau.com/particles.js/)**: Interactive particle background
-- **[Typed.js](https://mattboldt.com/demos/typed-js/)**: Typing animation effects
-- **[Vanilla Tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)**: 3D tilt hover effects
-- **[ScrollReveal](https://scrollrevealjs.org/)**: Scroll-based animations
-- **[EmailJS](https://www.emailjs.com/)**: Contact form email functionality
-- **[Font Awesome](https://fontawesome.com/)**: Icon library
-
-### Hosting
-- **Azure Static Web Apps**: Cloud hosting and deployment
-
-## Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Basic understanding of HTML/CSS/JavaScript (for customization)
-
-### Installation
-
-1. **Clone the repository**
-```
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-```
-
-2. **Open in browser**
-```
-# Simply open index.html in your browser
-# OR use a local server:
-python -m http.server 8000
-# Then visit http://localhost:8000
-```
-
-### Customization
-
-1. **Update Personal Information**
-   - Edit `index.html` to change your name, description, and contact details
-   - Replace social media links with your own
-
-2. **Add Your Projects**
-   ```
-   <div class="box">
-     <img src="path/to/your/image.jpg" alt="Project Name" />
-     <div class="content">
-       <div class="tag">
-         <h3>Your Project Name</h3>
-       </div>
-       <div class="desc">
-         <p>Project description here</p>
-         <div class="btns">
-           <a href="demo-link" class="btn"><i class="fas fa-eye"></i> View</a>
-           <a href="github-link" class="btn">Code <i class="fas fa-code"></i></a>
-         </div>
-       </div>
-     </div>
-   </div>
-   ```
-
-3. **Update Skills**
-   - Modify the skills section in `index.html`
-   - Add skill icons from [Icons8](https://icons8.com/) or Font Awesome
-
-4. **Configure Email (EmailJS)**
-   - Sign up at [EmailJS](https://www.emailjs.com/)
-   - Create email service and template
-   - Update EmailJS credentials in `script.js`:
-   ```javascript
-   emailjs.init("YOUR_USER_ID");
-   emailjs.send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", params);
-   ```
-
-5. **Customize Styling**
-   - Edit `./assets/css/style.css` to change colors, fonts, and layouts
-   - Modify particle.js settings in `./assets/js/app.js`
+- **HTML5**
+- **CSS3** (custom properties, animations, grid, flexbox)
+- **Vanilla JavaScript** (no frameworks)
+- **Font Awesome 6.5** via CDN for icons
+- **Google Fonts** (Inter) via CDN
+- **[ghchart.rshah.org](https://ghchart.rshah.org)** for live GitHub contribution graph
 
 ## Project Structure
 
 ```
 portfolio/
-│
-├── index.html              # Main HTML file
-├── assets/
-│   ├── css/
-│   │   └── style.css       # Main stylesheet
-│   ├── js/
-│   │   ├── script.js       # Main JavaScript
-│   │   ├── particles.min.js # Particle.js library
-│   │   └── app.js          # Particle.js configuration
-│   └── images/             # Images and icons
-│       ├── waving.png
-│       ├── pfplinkedin.JPG
-│       └── ...
-├── projects.html           # Projects page (optional)
-├── experience.html         # Experience page (optional)
-└── README.md
+├── index.html        # Everything — HTML, CSS, and JS in one file
+├── me.jpg            # Profile photo
+├── favicon.png       # Browser tab icon
+└── resume.pdf        # Resume download
 ```
 
-## Color Scheme
+## Getting Started
 
-- **Primary**: `#27ae60` (Green)
-- **Background**: `#0a0a0a` (Dark)
-- **Text**: `#fff` (White)
-- **Accent**: Custom as per sections
+No installs or build tools needed. Just open the file directly.
 
-*Customize these in `style.css` to match your personal brand*
+```bash
+git clone https://github.com/Ishvirchopra35/portfolio.git
+cd portfolio
+# Open index.html in your browser
+```
 
-## Responsive Breakpoints
+Or with a local server:
 
-- **Desktop**: > 1024px
-- **Tablet**: 768px - 1024px
-- **Mobile**: < 768px
+```bash
+python -m http.server 8000
+# Visit http://localhost:8000
+```
 
 ## Deployment
 
-### Azure Static Web Apps
+Hosted on **Azure Static Web Apps**, connected to this GitHub repo. Every push to `main` triggers an automatic redeployment.
 
-This portfolio is deployed on Azure Static Web Apps for fast, secure, and scalable hosting.
-
-**Deployment Steps:**
-
-1. **Push to GitHub**
-```
+```bash
 git add .
-git commit -m "Deploy portfolio"
-git push origin main
+git commit -m "your message"
+git push
 ```
 
-2. **Deploy to Azure**
-   - Go to [Azure Portal](https://portal.azure.com/)
-   - Create new Static Web App
-   - Connect to your GitHub repository
-   - Configure build settings:
-     - App location: `/`
-     - Output location: `/`
-   - Azure automatically deploys on every push
+Azure picks it up automatically within about a minute.
 
-**Automatic Deployment:**
-- Every push to `main` branch triggers automatic deployment
-- Preview deployments for pull requests
-- Custom domain support available
+**Build settings:**
+- App location: `/`
+- Output location: `/`
+- Build command: *(none)*
 
-### Alternative Deployment Options
+## Color Scheme
 
-## Browser Compatibility
+| Role | Value |
+|------|-------|
+| Background (dark) | `#0a0a0f` |
+| Surface (dark) | `#12121a` |
+| Primary accent | `#7c3aed` (purple) |
+| Secondary accent | `#06b6d4` (cyan) |
+| Background (light) | `#f8f8fc` |
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- IE11 (partial support - some animations may not work)
+## Social Links
 
-## Performance Optimization
+- GitHub: [github.com/Ishvirchopra35](https://github.com/Ishvirchopra35)
+- LinkedIn: [linkedin.com/in/ishvir-chopra-23758b2a8](https://www.linkedin.com/in/ishvir-chopra-23758b2a8/)
+- YouTube: [youtube.com/@Ishvirchopra35](https://www.youtube.com/@Ishvirchopra35)
+- Instagram: [instagram.com/ishvirchopra](https://www.instagram.com/ishvirchopra/)
+- Email: ischopra@uwaterloo.ca
 
-- Minified CSS and JavaScript
-- Optimized images (WebP format recommended)
-- Lazy loading for images
-- CDN for external libraries
+---
 
-## Known Issues
-
-- Contact form requires EmailJS configuration
-- Right-click disabled (can be removed if needed)
-- Some animations may be slow on older devices
-
-## Future Enhancements
-
-- [ ] Add dark/light theme toggle
-- [ ] Implement blog section
-- [ ] Add project filtering by technology
-- [ ] Create admin panel for easy content updates
-- [ ] Add testimonials section
-- [ ] Implement analytics (Google Analytics)
-- [ ] Add loading screen/preloader
-- [ ] Create multilingual support
-- [ ] Add resume download functionality
-- [ ] Implement project search functionality
-
-## License
-
-This project is open source
-
-## Inspiration & Credits
-
-- Design inspiration from various developer portfolios
-- Libraries: Particle.js, Typed.js, Vanilla Tilt, ScrollReveal
-- Icons: Font Awesome, Icons8
-- Fonts: Google Fonts
-
-## Contact
-
-**Ishvir Chopra** - ishvir.chopra@gmail.com
-
-Portfolio: ishvirchopra35.tech   
-LinkedIn: https://www.linkedin.com/in/ishvir-chopra-23758b2a8/  
-
-
-### Quick Start Commands
-
-```
-# Clone the repo
-git clone https://github.com/yourusername/portfolio.git
-
-# Navigate to directory
-cd portfolio
-
-# Open in browser
-open index.html  # macOS
-start index.html  # Windows
-xdg-open index.html  # Linux
-```
-
-Made with ❤️ by Ishvir Chopra
+Made with by Ishvir Chopra
