@@ -12,7 +12,7 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ### Hero Section
 
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/05f27532-22bb-44dc-a3ef-b4a77f4527b7" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/c8f1b6c8-b844-4e38-b14d-a0594e8a3ce6" />
 
 *Particle canvas background with typing animation*
 
