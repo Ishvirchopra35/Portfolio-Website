@@ -152,4 +152,4 @@ Azure picks it up automatically within about a minute.
 
 ---
 
-Made with by Ishvir Chopra
+Made by Ishvir Chopra
