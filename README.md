@@ -12,13 +12,13 @@ A modern, responsive portfolio website showcasing my projects, skills, experienc
 
 ### Hero Section
 
-<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/c8f1b6c8-b844-4e38-b14d-a0594e8a3ce6" />
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/05f27532-22bb-44dc-a3ef-b4a77f4527b7" />
 
 *Particle canvas background with typing animation*
 
 ### About Me
 
-<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/77ab1f7f-a6ee-4ad5-8c0a-0e9f29be4d76" />
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/aa94ea97-8f70-402d-ae1f-d8f17241b799" />
 
 *Personal intro, GitHub activity graph, and stats*
 
